@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=Tuttiritari&color=1bd295)
 
 ## About Me
-I enjoy playing some games, watching shows/movies with my family, and talking with friends.<br>
+I enjoy playing some games with my friends.<br>
 
 ## Discord
 
