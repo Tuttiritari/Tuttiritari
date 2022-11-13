@@ -1,5 +1,5 @@
 ## Hey there! I'm Tuttiritari
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=izMystic&label=Views&color=blue&style=plastic" alt="izMystic" /> </p>
+![](https://komarev.com/ghpvc/?username=Tuttiritari&color=1bd295)
 
 ## About Me
 I enjoy playing some games, watching shows/movies with my family, and talking with friends.<br>
