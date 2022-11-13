@@ -6,7 +6,7 @@ I enjoy playing some games, watching shows/movies with my family, and talking wi
 
 ## Discord
 
-[![Hype Roleplay](https://discordapp.com/api/guilds/1035655390932762664/widget.png?style=banner2)](https://discord.gg/BrMhNxPeG9)
+![Discord Banner 2](https://discordapp.com/api/guilds/1035655390932762664/widget.png?style=banner2)
 
 ## Known Languages
 
