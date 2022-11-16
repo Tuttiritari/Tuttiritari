@@ -6,7 +6,7 @@ I enjoy playing some games with my friends.<br>
 
 ## Discord
 
-![Hype Roleplay](https://discordapp.com/api/guilds/1035655390932762664/widget.png?style=banner2)](https://discord.gg/BrMhNxPeG9)
+[![Hype Roleplay](https://discordapp.com/api/guilds/1035655390932762664/widget.png?style=banner2)](https://discord.gg/BrMhNxPeG9)
 
 ## Known Languages
 
